@@ -48,3 +48,4 @@ tzdata
 urllib3
 watchdog
 zipp
+reportlab
